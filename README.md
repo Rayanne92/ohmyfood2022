@@ -17,6 +17,3 @@
 - HTML5
 - CSS3
 - Sass
-
-
-**Résultat**
